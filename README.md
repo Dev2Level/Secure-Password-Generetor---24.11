@@ -15,6 +15,8 @@ A modern, secure password generator built with React and TypeScript, featuring q
 - 📱 Responsive design for all devices
 - ⚡ Built with performance in mind
 
+## Program Layout
+
   ![image](https://github.com/user-attachments/assets/6d49f095-955a-48ba-99a3-b4eefcc6769b)
 
 
