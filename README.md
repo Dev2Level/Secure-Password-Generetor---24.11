@@ -1,4 +1,4 @@
-# 🔐 Quantum-Safe Password Generator
+# 🔐 Secure Password Generator
 
 A modern, secure password generator built with React and TypeScript, featuring quantum-inspired randomization and dark web breach checking.
 
@@ -14,6 +14,9 @@ A modern, secure password generator built with React and TypeScript, featuring q
 - 🔒 Local encrypted storage for saved passwords
 - 📱 Responsive design for all devices
 - ⚡ Built with performance in mind
+
+  ![image](https://github.com/user-attachments/assets/6d49f095-955a-48ba-99a3-b4eefcc6769b)
+
 
 ## 🚀 Quick Start
 
