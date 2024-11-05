@@ -22,10 +22,10 @@ A modern, secure password generator built with React and TypeScript, featuring q
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quantum-safe-password-generator
+git clone https://github.com/Dev2Level/Secure-Password-Generetor---24.11.git
 
 # Navigate to project directory
-cd quantum-safe-password-generator
+cd Secure-Password-Generetor---24.11
 
 # Install dependencies
 npm install
@@ -107,9 +107,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://quantum-safe-password.netlify.app)
-- [GitHub Repository](https://github.com/yourusername/quantum-safe-password-generator)
+- [Live Demo](https://funny-griffin-3c6eac.netlify.app/)
+- [GitHub Repository](https://github.com/Dev2Level/Secure-Password-Generetor---24.11)
 - [Report Bug](https://github.com/yourusername/quantum-safe-password-generator/issues)
 - [Request Feature](https://github.com/yourusername/quantum-safe-password-generator/issues)
 
 ## Developed by Werry Rodrigues
+2024
