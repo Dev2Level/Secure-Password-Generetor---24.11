@@ -108,3 +108,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [GitHub Repository](https://github.com/yourusername/quantum-safe-password-generator)
 - [Report Bug](https://github.com/yourusername/quantum-safe-password-generator/issues)
 - [Request Feature](https://github.com/yourusername/quantum-safe-password-generator/issues)
+
+## Developed by Werry Rodrigues
